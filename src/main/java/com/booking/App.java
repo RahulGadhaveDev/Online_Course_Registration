@@ -12,6 +12,7 @@ public class App {
 	public static void main(String[] args) {
 		CourseRepo course = new CourseRepo();
 
+		//rahul
 		System.out.println("press 1 Register for course");
 		Scanner sc = new Scanner(System.in);
 		int opration = sc.nextInt();

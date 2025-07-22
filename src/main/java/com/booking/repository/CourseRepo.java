@@ -11,7 +11,7 @@ import com.booking.entity.Registration;
 import com.booking.utility.CourseUtility;
 
 public class CourseRepo {
-//Rahul
+
 	Scanner sc = new Scanner(System.in);
     // add couse
 	public void addCourse() {
