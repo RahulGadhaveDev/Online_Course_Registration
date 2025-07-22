@@ -16,7 +16,7 @@
 
 		<property name="hibernate.hbm2ddl.auto">update</property>
 
-	    <mapping class="com.booking.entity.Students"/>
+	    <mapping class="com.booking.entity.Registration"/>
 	    
 	 </session-factory>
 </hibernate-configuration>
