@@ -9,7 +9,7 @@ import org.hibernate.Transaction;
 
 import com.booking.entity.Registration;
 import com.booking.utility.CourseUtility;
-//course repository 
+
 public class CourseRepo {
 	
 	Scanner sc = new Scanner(System.in);
