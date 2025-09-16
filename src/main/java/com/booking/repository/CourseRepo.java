@@ -13,7 +13,7 @@ import com.booking.utility.CourseUtility;
 public class CourseRepo {
 	
 	Scanner sc = new Scanner(System.in);
-    // add couse
+    
 	public void addCourse() {
 		Registration registration = new Registration();
 
